@@ -1,0 +1,76 @@
+.posts-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.posts-container form {
+  margin: 20px auto;
+  width: 85%;
+  border: 1px solid #008cba;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: beige;
+}
+.posts-list {
+  margin: 10px auto;
+  width: 25%;
+  border: 1px solid #008cba;
+  padding: 20px 20px 50px 20px;
+  border-radius: 15px;
+  position: relative;
+}
+button {
+  cursor: pointer;
+  padding: 10px;
+}
+.adjust-buttons {
+  width: 45%;
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  bottom: 10px;
+  left: 30%;
+}
+.edit-button {
+  width: 67px;
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
+.delete-button {
+  width: 67px;
+  background-color: #f44336;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
+.add-button {
+  background-color: #008cba;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
+.pagination button {
+  width: 100px;
+  background-color: #008cba;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+  margin: 10px;
+}

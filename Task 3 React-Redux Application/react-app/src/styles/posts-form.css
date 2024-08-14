@@ -1,0 +1,47 @@
+.post-form form {
+  margin: 20px auto;
+  width: 35%;
+  border: 1px solid #008cba;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: beige;
+}
+.title input {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0 22px 0;
+  display: inline-block;
+  border: 1px solid #008cba;
+  border-radius: 8px;
+}
+.content textarea {
+  width: 90%;
+  height: fit-content;
+  padding: 10px;
+  margin: 10px 0 22px 0;
+  display: inline-block;
+  border: 1px solid #008cba;
+  border-radius: 8px;
+}
+.save-button {
+  width: 67px;
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
+.cancel-button {
+  width: 67px;
+  background-color: #f44336;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
