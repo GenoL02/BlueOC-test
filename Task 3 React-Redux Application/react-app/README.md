@@ -6,7 +6,7 @@ This is a simple React-Redux application that fetches and displays posts from th
 
 - Fetches posts from `https://jsonplaceholder.typicode.com/posts`.
 - Displays a list of posts.
-- Allows users to add new posts.
+- Allows users to view, add, edit, delete posts.
 
 ## Technologies
 
